@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @YiannisTzo
-- 👀 I’m interested in learning Terraform, Kubernetes and Ansible.
+- 👀 I’m interested in learning Terraform, Kubernetes, Azure and Ansible.
 - 🌱 I’m currently learning Terraform.
 - 💞️ I’m looking to collaborate on different it projects.
 - 📫 How to reach me: ioannis.tzomiadis@gmail.com
