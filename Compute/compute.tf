@@ -3,6 +3,6 @@ resource "aws_instance" "myec2_instance" {
   instance_type = "us-east-2"
 
   tags = {
-    default = "my new vm"
+    default = "my first vm"
   }
 }
