@@ -3,6 +3,6 @@ resource "aws_instance" "myec2_instance" {
   instance_type = "../var.type_var"
 
   tags = {
-    default = "my first vm"
+    default = "NEW-ERA"
   }
 }
