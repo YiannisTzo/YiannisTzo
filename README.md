@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @YiannisTzo
 - 👀 I’m interested in learning GithubActions, Kubernetes, Azure Devops.
 - 🌱 I’m currently learning GitHub Actions.
-- 💞️ I’m looking to collaborate on different it projects.
+- 💞️ I’m looking to collaborate on different IT projects.
 - 📫 How to reach me: ioannis.tzomiadis@gmail.com.
 - 🌱 I'm a certified Azure Administrator and Terraform Associate.
 
