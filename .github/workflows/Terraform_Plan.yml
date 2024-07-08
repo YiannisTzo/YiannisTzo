@@ -4,9 +4,9 @@ name: CI
 On: workflow_discpatch
 jobs:
  first_job:
-  runs-on: ubuntu_latest
+  runs-on: ubuntu-latest
   steps:
    -name: Test
-    run: echo "Hello World"
+    run: echo "First_workflow"
    -name: Test2
-    run: echo "bye"
+    run: echo "Second-workflow"
