@@ -1,12 +1,10 @@
-# This is a basic workflow to help you get started with Actions
-
 name: CI
-On: workflow_discpatch
+on: workflow_dispatch
 jobs:
- first_job:
-  runs-on: ubuntu-latest
-  steps:
-   -name: Test
-    run: echo "First_workflow"
-   -name: Test2
-    run: echo "Second-workflow"
+  first_job:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Test
+        run: echo "First_workflow"
+      - name: Test2
+        run: echo "Second_workflow"
