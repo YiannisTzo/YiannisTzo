@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @YiannisTzo
+- 👋 Hi, I’m @Yiannis
 - 👀 I’m interested in learning Kubernetes, Azure Architecture.
-- 🌱 I’m currently learning CI/CD.
+- 🌱 I’m currently learning kubermetes.
 - 💞️ I’m looking to collaborate on different IT projects.
 - 📫 How to reach me: ioannis.tzomiadis@gmail.com.
 - 🌱 I'm a certified Azure Administrator, Terraform Associate and GitHub Actions.
